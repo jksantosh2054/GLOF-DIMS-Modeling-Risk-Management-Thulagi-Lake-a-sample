@@ -10,6 +10,20 @@ The dashboard is a standalone, browser‑based interface that visualizes
 
 ---
 
+## 📸 Dashboard Preview
+
+### **Terrain Analysis (3D Visualization)**
+![Thulagi Terrain](GLOF_Terrain.png)
+
+### **GLOF Inundation — Catastrophic Breach Scenario (100%)**
+![GLOF Inundation](GLOF_Inundation.png)
+
+### **GLOF DIMS EWS Dashboard**
+![GLOF Inundation](GLOF_DIMS_EWS_Dashboard.png)
+
+> _Screenshots from the interactive HTML dashboard included in this repository._
+
+
 ## 📌 Overview
 
 This HTML dashboard provides fully interactive visualisations including:
