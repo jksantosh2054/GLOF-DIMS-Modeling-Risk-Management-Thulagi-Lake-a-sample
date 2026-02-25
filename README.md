@@ -19,7 +19,7 @@ The dashboard is a standalone, browser‑based interface that visualizes
 ![GLOF Inundation](GLOF_Inundation.png)
 
 ### **GLOF DIMS EWS Dashboard**
-![GLOF Inundation](GLOF_DIMS_EWS_Dashboard.png)
+![GLOF Inundation](GLOF_EWS_Framework.png)
 
 > _Screenshots from the interactive HTML dashboard included in this repository._
 
